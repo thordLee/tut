@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Header></Header>
       <Content></Content>
-      <Footer></Footer>
+      <Footer>하단입니다.</Footer>
        
     </div>
   );
